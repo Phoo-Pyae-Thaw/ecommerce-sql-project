@@ -86,5 +86,9 @@ Ecommerce-SQL-Project/
 
 ---
 
+## ER Diagram
+<img width="797" height="642" alt="E-commerce EER Diagram" src="https://github.com/user-attachments/assets/534acb52-155f-4247-a4aa-4c35d3cf1898" />
+
+
 ## Author
 Phoo Pyae Thaw
